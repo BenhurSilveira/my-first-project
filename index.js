@@ -11,7 +11,6 @@ app.use(express.json())
     - Route params => /users/2  // BUSCAR, DELETAR ou ATUALIZAR ALGO ESPECIFICO
     - Request Body => {"name": "Benhur", "age":}
 
-
     - GET          => BUSCAR INFORMACAO NO BACK-END
     - POST         => CRIAR INFORMACAO NO BACK-END
     - PUT / PATCH  => ALTERAR/ATUALIZAR INFORMACAO NO BACK-END
