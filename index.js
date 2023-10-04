@@ -35,7 +35,7 @@ app.use(express.json())
    
 */
 
-const users = [] // essa variavel nao se usa, foi so para metodo didatico
+const users = [] // essa variavel nao se usa, foi so para metodo didatico...
 
 const checkUserId = (request, response, next) => {
     const { id } = request.params
