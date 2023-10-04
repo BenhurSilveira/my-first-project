@@ -34,7 +34,6 @@ app.use(express.json())
     console.log(id)
     const { name, age } = request.query // destructuring assignment economiza codigo
    
-
 */
 
 const users = [] // essa variavel nao se usa, foi so para metodo didatico
